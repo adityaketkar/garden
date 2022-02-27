@@ -1,8 +1,6 @@
 ---
-title: 🪴 Quartz 3.1
-tags:
-- example-tag
-disableToc: false # do not show a table of contents on this page if enabled
+title: 🪴 Aditya Ketkar
+disableToc: true # do not show a table of contents on this page if enabled
 ---
 Aditya
 Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
@@ -28,3 +26,8 @@ If you prefer browsing the contents of this site through a list instead of a gra
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
 - 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+
+- Good managers break down tasks in to small ones. Will power doesn't matter then
+- It's sustainable only if you don't need willpower
+- Use willpower to break down and plan. Use expertise to execute.
+- 

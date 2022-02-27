@@ -1,5 +1,8 @@
 ---
 title: "Custom Domain"
+tags:
+- example-tag
+disableToc: true
 ---
 
 ### Registrar
