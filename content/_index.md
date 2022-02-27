@@ -1,6 +1,10 @@
 ---
 title: 🪴 Quartz 3.1
+tags:
+- example-tag
+disableToc: false # do not show a table of contents on this page if enabled
 ---
+Aditya
 Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
 1. Extremely fast full-text search by pressing `/`
 2. Display for backlinks of each note
