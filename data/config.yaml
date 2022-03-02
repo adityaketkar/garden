@@ -1,13 +1,16 @@
-name: Jacky Zhao
+name: Aditya Ketkar
 enableToc: true
 enableLinkPreview: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  🪴 Aditya's Digital Garden
 page_title:
-  "🪴 Quartz 3.1"
+  🪴 Aditya's Digital Garden
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/adityaketkar
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/adityaketkar
+  - link_name: LinkedIn
+    link: https://linkedin.com/in/adityaketkar
+  - link_name: Personal Website
+    link: https://adityaketkar.me

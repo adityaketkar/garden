@@ -239,11 +239,18 @@ async function run() {
     }
   })
 
-  const searchButton = document.getElementById("search-icon")
+  const searchButton = document.getElementById("search-icon");
   searchButton.addEventListener('click', (evt) => {
     openSearch()
   })
   searchButton.addEventListener('keydown', (evt) => {
+    openSearch()
+  })
+  const serachString = document.getElementById("search-string");
+  serachString.addEventListener('click', (evt) => {
+    openSearch()
+  })
+  serachString.addEventListener('keydown', (evt) => {
     openSearch()
   })
   searchContainer.addEventListener('click', (evt) => {

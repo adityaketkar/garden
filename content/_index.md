@@ -1,33 +1,33 @@
 ---
-title: 🪴 Aditya Ketkar
+title: 🪴 Aditya Digital Garden
 disableToc: true # do not show a table of contents on this page if enabled
 ---
-Aditya
-Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
-1. Extremely fast full-text search by pressing `/`
-2. Display for backlinks of each note
-3. Fully customizable local graph view
-4. Endlessly powerful page and theme customization using CSS
-5. Automatically generated tag and section lists of content
-6. Beautiful link previews
 
-## Get Started
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
+> 🚧 WORK IN PROGRESS
+> 
+>  This site is a work in progress. 
+>  Please visit [**adityaketkar.me**](https://adityaketkar.me) for currently live site.
 
-Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!
+Hi, I am Aditya 👋 , and you are currently in my second brain. This is where I think out loud, capture raw ideas and make them public. 
 
-## Content Lists
-If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
+There is no featured posts list or a starting point. Just pick one section and keep going, from 👉 [here](notes)
 
-- [All Notes](/notes)
-- [Setup-related Notes](/tags/setup)
+I occasionally collate these thoughts into [talks, blogs and a newsletter](notes/talks-blogs-and-newsletter).
 
-## Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+# About Me
+A quick recap of my life till now
+- 🏓 Professional table-tennis player till 16 (national player, state team captain)
+- ✍️ Test prep till 18
+- 🏫 Computer Science graduate from BITS Pilani
+  - 👨🏻‍💻 Interned at Amazon
+  - 🧑🏻‍🔬 Wrote bachelor thesis at [CVC Barcelona](http://www.cvc.uab.es/)
+- 🧑🏻‍💼 Software Developer at Microsoft 
+- 🧑🏻‍🏫 Helped 300+ engineers land jobs @ [Edmad](https://edmad.io/)
+-  ⚡️ 🚗 Currently building future of electric mobility and clean energy @ [Telematica](https://telematica.so)
 
-- Good managers break down tasks in to small ones. Will power doesn't matter then
-- It's sustainable only if you don't need willpower
-- Use willpower to break down and plan. Use expertise to execute.
-- 
+
+---
+
+{{< rawhtml >}}
+  <iframe src="https://ketkar.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+{{< /rawhtml >}}
