@@ -1,5 +1,5 @@
 ---
-title: 🪴 Aditya Digital Garden
+title: 🪴 Aditya's Digital Garden
 disableToc: true # do not show a table of contents on this page if enabled
 ---
 
