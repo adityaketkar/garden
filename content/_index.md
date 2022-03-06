@@ -38,7 +38,7 @@ A quick recap of my life till now
 <br/>
 {{< /rawhtml >}}
 
-| [Uses](notes/uses) | [🧠 TIL](notes/til.md) | [📍 Places](notes/places.md) 
+| [🖥 Uses](notes/uses) | [🧠 TIL](notes/til.md) | [📍 Places](notes/places.md) 
 | --- | ----------- | ----  | 
  
 
