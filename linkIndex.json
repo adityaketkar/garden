@@ -11,6 +11,21 @@
           "source": "/",
           "target": "/notes/talks-blogs-and-newsletter",
           "text": "talks, blogs and a newsletter"
+        },
+        {
+          "source": "/",
+          "target": "/notes/uses",
+          "text": "🖥 Uses"
+        },
+        {
+          "source": "/",
+          "target": "/notes/til",
+          "text": "🧠 TIL"
+        },
+        {
+          "source": "/",
+          "target": "/notes/places",
+          "text": "📍 Places"
         }
       ]
     },
@@ -22,11 +37,32 @@
           "text": "here"
         }
       ],
+      "/notes/places": [
+        {
+          "source": "/",
+          "target": "/notes/places",
+          "text": "📍 Places"
+        }
+      ],
       "/notes/talks-blogs-and-newsletter": [
         {
           "source": "/",
           "target": "/notes/talks-blogs-and-newsletter",
           "text": "talks, blogs and a newsletter"
+        }
+      ],
+      "/notes/til": [
+        {
+          "source": "/",
+          "target": "/notes/til",
+          "text": "🧠 TIL"
+        }
+      ],
+      "/notes/uses": [
+        {
+          "source": "/",
+          "target": "/notes/uses",
+          "text": "🖥 Uses"
         }
       ]
     }
@@ -41,6 +77,21 @@
       "source": "/",
       "target": "/notes/talks-blogs-and-newsletter",
       "text": "talks, blogs and a newsletter"
+    },
+    {
+      "source": "/",
+      "target": "/notes/uses",
+      "text": "🖥 Uses"
+    },
+    {
+      "source": "/",
+      "target": "/notes/til",
+      "text": "🧠 TIL"
+    },
+    {
+      "source": "/",
+      "target": "/notes/places",
+      "text": "📍 Places"
     }
   ]
 }
