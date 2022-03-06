@@ -3,7 +3,7 @@ title: "Places I've been to"
 disableToc: true
 ---
 
-## Top cities by time spent
+## 🕐 Top cities by time spent
 1. Indore - 18 years
 2. Goa - 3.5 years
 3. Barcelona - 6 months

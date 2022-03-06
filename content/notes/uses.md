@@ -1,7 +1,9 @@
 ---
-title: "Weapons of choice"
+title: "🪓 Weapons of choice"
 disableToc: true
 ---
+
+## Hardware
 
  [- **Macbook Pro 2021 - 14' 16G/512G**](https://www.apple.com/in/shop/buy-mac/macbook-pro/14-inch-macbook-pro)
 
@@ -14,10 +16,40 @@ Warning: highly addictive.
 
 [- **Apple AirPods Pro**](https://www.apple.com/in/airpods-pro/)
 
-[- **Keychron K2V2 Brown**](https://keychron.in/product/keychron-k2-v-2/)
+[- **Keychron K2V2 Brown**](https://keychron.in/product/keychron-k2-v-2/) ([check this out 👇🏻](#pookie))
+
+[- **Blue Yeti**](https://www.bluemic.com/en-us/products/yeti/)
+
+
+## Software & Tools
+
+<!-- todo: add workflows and plugins -->
+[- **Alfred**](https://www.alfredapp.com/)
+
+<!-- todo: add extensions -->
+[- **Edge (yes.)**](https://www.microsoft.com/en-us/edge)
+
+[- **Obsidian**](https://www.obsidian.md)
+
+[- **Cron**](https://www.cron.com)
+
+[- **Calmly**](https://www.calmlywriter.com/)
+
+[- **AlDente**](https://github.com/davidwernhart/AlDente)
+
+[- **Flameshot**](https://flameshot.org/)
+
+[- **Rectangle**](https://rectangleapp.com/)
+
+[- **Unnatural Scroll Wheels**](https://github.com/ther0n/UnnaturalScrollWheels)
+
+---
 
 {{< rawhtml >}}
+<a name="pookie"></a>
   <iframe id="ytplayer" type="text/html" width="100%" height="360"
   src="https://www.youtube.com/embed/5dFKgN9JAc8"
   frameborder="0"></iframe>
 {{< /rawhtml >}}
+
+
