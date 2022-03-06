@@ -1,56 +1,56 @@
 {
   "/": {
     "title": "🪴 Aditya's Digital Garden",
-    "content": "---\n\n\u003e 🚧 WORK IN PROGRESS\n\u003e \n\u003e  This site is a work in progress. \n\u003e  Please visit [**adityaketkar.me**](https://adityaketkar.me) for currently live site.\n\nHi, I am Aditya 👋 , and you are currently in my second brain. This is where I think out loud, capture raw ideas and make them public. \n\nThere is no featured posts list or a starting point. Just pick one section and keep going, from 👉 [here](notes)\n\nI occasionally collate these thoughts into [talks, blogs and a newsletter](notes/talks-blogs-and-newsletter).\n\n# About Me\n\n### Story\nA quick recap of my life till now\n- 🏓 Professional table-tennis player till 16 (national player, state team captain)\n- ✍️ Test prep till 18\n- 🏫 Computer Science graduate from BITS Pilani\n  - 👨🏻‍💻 Interned at Amazon\n  - 🧑🏻‍🔬 Wrote bachelor thesis at [CVC Barcelona](http://www.cvc.uab.es/)\n- 🧑🏻‍💼 Software Developer at Microsoft \n- 🧑🏻‍🏫 Helped 300+ engineers land jobs @ [Edmad](https://edmad.io/)\n-  ⚡️ 🚗 Currently building future of electric mobility and clean energy @ [Telematica](https://telematica.so)\n\n\u003c!-- ### Care --\u003e\n\u003c!-- Things I care deeply about: --\u003e\n\u003c!-- - [Sustainability](notes/sustainability) --\u003e\n\n{{\u003c rawhtml \u003e}}\n\u003cbr/\u003e\n\u003cbr/\u003e\n\u003cbr/\u003e\n\u003cbr/\u003e\n{{\u003c /rawhtml \u003e}}\n\n| **[🖥 Uses](notes/uses)** | [**🧠 TIL**](notes/til.md) | [**📍 Places**](notes/places.md) \n|",
-    "lastmodified": "2022-03-06T19:14:54.275641907Z",
+    "content": "---\n\n\u003e 🚧 WORK IN PROGRESS\n\u003e \n\u003e  This site is a work in progress. \n\u003e  Please visit [**adityaketkar.me**](https://adityaketkar.me) for currently live site.\n\nHi, I am Aditya 👋 , and you are currently in my second brain. This is where I think out loud, capture raw ideas and make them public. \n\nThere is no featured posts list or a starting point. Just pick one section and keep going, from 👉 [here](notes)\n\nI occasionally collate these thoughts into [talks, blogs and a newsletter](notes/talks-blogs-and-newsletter).\n\n# About Me\n\n### Story\nA quick recap of my life till now\n- 🏓 Professional table-tennis player till 16 (national player, state team captain)\n- ✍️ Test prep till 18\n- 🏫 Computer Science graduate from BITS Pilani\n  - 👨🏻‍💻 Interned at Amazon\n  - 🧑🏻‍🔬 Wrote bachelor thesis at [CVC Barcelona](http://www.cvc.uab.es/)\n- 🧑🏻‍💼 Software Developer at Microsoft \n- 🧑🏻‍🏫 Helped 300+ engineers land jobs @ [Edmad](https://edmad.io/)\n-  ⚡️ 🚗 Currently building future of electric mobility and clean energy @ [Telematica](https://telematica.so)\n\n\u003c!-- ### Care --\u003e\n\u003c!-- Things I care deeply about: --\u003e\n\u003c!-- - [Sustainability](notes/sustainability) --\u003e\n\n{{\u003c rawhtml \u003e}}\n\u003cbr/\u003e\n\u003cbr/\u003e\n\u003cbr/\u003e\n\u003cbr/\u003e\n{{\u003c /rawhtml \u003e}}\n\n| [Uses](notes/uses) | [🧠 TIL](notes/til.md) | [📍 Places](notes/places.md) \n|",
+    "lastmodified": "2022-03-06T19:17:31.06758654Z",
     "tags": null
   },
   "/notes/places": {
     "title": "Places I've been to",
     "content": "{{\u003c rawhtml \u003e}}\n  \u003ciframe width=\"100%\" height=\"400\" frameborder=\"0\" src=\"https://widgets.scribblemaps.com/sm/?d\u0026z\u0026l\u0026gc\u0026af\u0026mc\u0026lat=24.075773484\u0026lng=76.328139085\u0026vz=5\u0026type=hybrid\u0026ti\u0026s\u0026id=ketkar\" style=\"border:0; max-width: 100%;\" allowfullscreen allow=\"geolocation\" loading=\"lazy\"\u003e\u003c/iframe\u003e\n{{\u003c /rawhtml \u003e}}\n\n\n## Top cities by time spent\n1. Indore - 18 years\n2. Goa - 3.5 years\n3. Barcelona - 6 months\n4. Chennai - 6 months\n6. Bangalore - 4+ months\n7. Shillong - 2.5 months",
-    "lastmodified": "2022-03-06T19:14:54.279641907Z",
+    "lastmodified": "2022-03-06T19:17:31.071586542Z",
     "tags": null
   },
   "/notes/talks-blogs-and-newsletter": {
     "title": "Talks, Blogs and Newsletter",
     "content": "---\n\n# Talks\n\nI actively attend events to gain and share my knowledge. \nIf you have an event / talk / panel which I can be a part of in any way (to 🗣 or 👂 or both), feel free to reach out at aditya@ketkar.me\n\n{{\u003c rawhtml \u003e}}\n\u003cbr/\u003e\n{{\u003c /rawhtml \u003e}}\n\n###  Frontend Patterns for Lightning Performance\n@ Microsoft, March 2021\n\nA live and interactive deep dive into frontend-performance optimization with patterns like CSR, SPAs, SSR, SSG, ISG etc. \n\nA comparative study of technologies behind Amazon, Gmail, Netflix along with some quick wins for perf improvements\n\n[Slides (pdf) ↗](https://drive.google.com/file/d/13yhcpI_CwCU0np_tzTAUJGNci4hSGme3/view?usp=sharing)  |  [Slides with videos (pptx) ↗](https://drive.google.com/file/d/19J08czyywp7JCioK8eDQ2Li83zW3bc3C/view?usp=sharing)\n\n{{\u003c rawhtml \u003e}}\n\u003cbr/\u003e\n{{\u003c /rawhtml \u003e}}\n\n### Resume Draftimg 101\n@ [EdMad](https://edmad.io), July 2020\n\nZero to hero in drafting and maintaining a killer resume, all in 30 mins. A talk for final and pre-final year students and people looking to up their resume game \n\n[Slides ↗](https://drive.google.com/file/d/19vIO2utgN8zpioxbrRW8TtXIiHBBBTbk/view?usp=sharing)",
-    "lastmodified": "2022-03-06T19:14:54.279641907Z",
+    "lastmodified": "2022-03-06T19:17:31.071586542Z",
     "tags": null
   },
   "/notes/til": {
     "title": "Today I learned",
     "content": "",
-    "lastmodified": "2022-03-06T19:14:54.279641907Z",
+    "lastmodified": "2022-03-06T19:17:31.071586542Z",
     "tags": null
   },
   "/notes/uses": {
     "title": "Weapons of choice",
     "content": "[- **Macbook Pro 2021 - 14' 16G/512G**](https://www.apple.com/in/shop/buy-mac/macbook-pro/14-inch-macbook-pro)\n\n[- **MX Master 3**](https://www.logitech.com/en-in/products/mice/mx-master-3.910-005698.html)\\\nWarning: highly addictive.\n\n[- **BenQ GW2780** ](https://www.benq.com/en-in/monitor/stylish/gw2780.html) with [**Monitor Arm Mount**](https://www.amazon.in/AmazonBasics-Single-Monitor-Stand-Adjustable/dp/B07DHK5DHN)\n\n[- **Fitbit Charge 4**](https://www.fitbit.com/global/in/products/trackers/charge4)\n\n[- **Apple AirPods Pro**](https://www.apple.com/in/airpods-pro/)\n\n[- **Keychron K2V2 Brown**](https://keychron.in/product/keychron-k2-v-2/)\n\n{{\u003c rawhtml \u003e}}\n  \u003ciframe id=\"ytplayer\" type=\"text/html\" width=\"100%\" height=\"360\"\n  src=\"https://www.youtube.com/embed/5dFKgN9JAc8\"\n  frameborder=\"0\"\u003e\u003c/iframe\u003e\n{{\u003c /rawhtml \u003e}}",
-    "lastmodified": "2022-03-06T19:14:54.279641907Z",
+    "lastmodified": "2022-03-06T19:17:31.071586542Z",
     "tags": null
   },
   "/private/ideal-blog": {
     "title": "Ideal Blog",
     "content": "- Generate static pages\n- Generates graph\n- Internal linking, fast af\n- Page previews on hover\n- Backlinks\n- External and internal links look different\n- Code syntax highlighting\n- Sliding window mode?\n\n\n\n\nLast few weeks have been relentlessy plan, execute and plan ahead.\nFew things I learnt: \n\nDependency Injection\nmongo\nJWT\nAWS and pairing services\nTesting\nHeroku\nObsidian\n\nWant to do\n- I do stuff only when with someone, if you're really interested, hit me up and we can do this together\n\nmake products that are\ntoo good to be true\n\nA BTDT section: Been in barcelona, done research in Computer Vision\n\nObsidian publish is by far the best way to publish blogs\n\nPosters section, where I edit some photos and make them posterable\n\nAdd a photo there, like [Welcome to my digital garden - Alexis Rondeau - Obsidian Publish](https://publish.obsidian.md/alexisrondeau/Welcome+to+my+digital+garden)\n\nAlso a page on uses : \nObsidian\nAlfred\n\nMy frameworks and mental models\n\nThings I Find cool\n\nNotes and blog are different - \nNotes on obsidian \n\ninspiration [Danny's Note Collection - Danny Hatcher - Obsidian Publish](https://publish.obsidian.md/danny-hatcher/Notes/Danny's+Note+Collection)",
-    "lastmodified": "2022-03-06T19:14:54.279641907Z",
+    "lastmodified": "2022-03-06T19:17:31.071586542Z",
     "tags": null
   },
   "/private/sustainability": {
     "title": "Sustainability",
     "content": "- Rarely ever used plastic bags\n-",
-    "lastmodified": "2022-03-06T19:14:54.279641907Z",
+    "lastmodified": "2022-03-06T19:17:31.071586542Z",
     "tags": null
   },
   "/private/todos": {
     "title": "Todos",
     "content": "- Good managers break down tasks in to small ones. Will power doesn't matter then\n- It's sustainable only if you don't need willpower\n- Use willpower to break down and plan. Use expertise to execute.\n\n\n- Add google analytics\n- Write first few blogs\n- Distinction between blogs and notes\n\nKeyboards\nUses\n- loves : indori food\n- TIL\nYC Story\n3 month idea framework\nRoutines\nPosters\nSHould I do MS ka flowchart : Sit on the decision for a week at least\nPeople you should follow and read\nTeam lead should write tests \n- What is the job of team lead; know what the code does and make sure it's not fd up.\n- What's the job of QA testere: \n\nProblems me zoom out and dive head first\nSolves most of problems. Thesis, gut feeling, no testing hypothesis\n\n\nAbout competition in business\n- Suggestion to add two competitors in yc batch wala banda\n- See competition as positive reinforcement\n- See competition as soldiers to solve a problem\n- You most likely overestimate \n- karm karo not fal ki chinta\n\n\nTodo \nSee binarysearch founder \n[Lawrence Wu | Home](https://lawrencewu.com/)\n\nContent to consume :\n[We're Building Computers Wrong - YouTube](https://www.youtube.com/watch?v=GVsUOuSjvcg\u0026ab_channel=Veritasium)\n\n\nHappiness\nHealth wealth relationships\nScott galloway also see\n\nWhat's better: \nbiased but confident fool\nor unbiased but accepting and less confident wise\nIs there a quantification? What's better?\n\nA blog on founding engineers:\nGive some examples : \nAdd what derisked they are : Money and experience are both derisked\n\nA bid difference\nTalking to strangers\nhttps://twitter.com/mijustin/status/1499798379521470467?ck_subscriber_id=1325451866\nIn India, talking to stranger is looked as creepy, not desired behaviour. Definitely will attract wierdo looks\nBahar it's common to do that\n\n\nI'm not personally a very religious person, but I do enjoy cultural rituals like this!\n- Exactly. I enjoy the practices\n\n\nYou can't double your intelligence in one hour, but you can use one hour to write something twice as clear\n\nGolden words: \nFirst of all thanks for admitting you commited a mistake. It takes lot ofguts to do so. \nNext step, let's figure out how to mend this together.",
-    "lastmodified": "2022-03-06T19:14:54.279641907Z",
+    "lastmodified": "2022-03-06T19:17:31.071586542Z",
     "tags": null
   },
   "/templates/post": {
     "title": "{{title}}",
     "content": "",
-    "lastmodified": "2022-03-06T19:14:54.279641907Z",
+    "lastmodified": "2022-03-06T19:17:31.071586542Z",
     "tags": null
   }
 }
