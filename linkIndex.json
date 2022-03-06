@@ -27,9 +27,23 @@
           "target": "/notes/places",
           "text": "📍 Places"
         }
+      ],
+      "/notes/uses": [
+        {
+          "source": "/notes/uses",
+          "target": "/",
+          "text": "check this out 👇🏻"
+        }
       ]
     },
     "backlinks": {
+      "/": [
+        {
+          "source": "/notes/uses",
+          "target": "/",
+          "text": "check this out 👇🏻"
+        }
+      ],
       "/notes": [
         {
           "source": "/",
@@ -92,6 +106,11 @@
       "source": "/",
       "target": "/notes/places",
       "text": "📍 Places"
+    },
+    {
+      "source": "/notes/uses",
+      "target": "/",
+      "text": "check this out 👇🏻"
     }
   ]
 }
