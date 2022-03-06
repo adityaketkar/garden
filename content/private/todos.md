@@ -16,6 +16,8 @@ disableToc: true
 
 Keyboards
 Uses
+- loves : indori food
+- TIL
 YC Story
 3 month idea framework
 Routines
@@ -28,4 +30,51 @@ Team lead should write tests
 
 Problems me zoom out and dive head first
 Solves most of problems. Thesis, gut feeling, no testing hypothesis
+
+
+About competition in business
+- Suggestion to add two competitors in yc batch wala banda
+- See competition as positive reinforcement
+- See competition as soldiers to solve a problem
+- You most likely overestimate 
+- karm karo not fal ki chinta
+
+
+Todo 
+See binarysearch founder 
+[Lawrence Wu | Home](https://lawrencewu.com/)
+
+Content to consume :
+[We're Building Computers Wrong - YouTube](https://www.youtube.com/watch?v=GVsUOuSjvcg&ab_channel=Veritasium)
+
+
+Happiness
+Health wealth relationships
+Scott galloway also see
+
+What's better: 
+biased but confident fool
+or unbiased but accepting and less confident wise
+Is there a quantification? What's better?
+
+A blog on founding engineers:
+Give some examples : 
+Add what derisked they are : Money and experience are both derisked
+
+A bid difference
+Talking to strangers
+https://twitter.com/mijustin/status/1499798379521470467?ck_subscriber_id=1325451866
+In India, talking to stranger is looked as creepy, not desired behaviour. Definitely will attract wierdo looks
+Bahar it's common to do that
+
+
+I'm not personally a very religious person, but I do enjoy cultural rituals like this!
+- Exactly. I enjoy the practices
+
+
+You can't double your intelligence in one hour, but you can use one hour to write something twice as clear
+
+Golden words: 
+First of all thanks for admitting you commited a mistake. It takes lot ofguts to do so. 
+Next step, let's figure out how to mend this together. 
 

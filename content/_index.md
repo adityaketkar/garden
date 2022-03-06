@@ -15,6 +15,8 @@ There is no featured posts list or a starting point. Just pick one section and k
 I occasionally collate these thoughts into [talks, blogs and a newsletter](notes/talks-blogs-and-newsletter).
 
 # About Me
+
+### Story
 A quick recap of my life till now
 - 🏓 Professional table-tennis player till 16 (national player, state team captain)
 - ✍️ Test prep till 18
@@ -25,6 +27,20 @@ A quick recap of my life till now
 - 🧑🏻‍🏫 Helped 300+ engineers land jobs @ [Edmad](https://edmad.io/)
 -  ⚡️ 🚗 Currently building future of electric mobility and clean energy @ [Telematica](https://telematica.so)
 
+<!-- ### Care -->
+<!-- Things I care deeply about: -->
+<!-- - [Sustainability](notes/sustainability) -->
+
+{{< rawhtml >}}
+<br/>
+<br/>
+<br/>
+<br/>
+{{< /rawhtml >}}
+
+| **[🖥 Uses](notes/uses)** | [**🧠 TIL**](notes/til.md) | [**📍 Places**](notes/places.md) 
+| --- | ----------- | ----  | 
+ 
 
 ---
 
