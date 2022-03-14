@@ -8,6 +8,13 @@ disableToc: true
 - Good managers break down tasks in to small ones. Will power doesn't matter then
 - It's sustainable only if you don't need willpower
 - Use willpower to break down and plan. Use expertise to execute.
+- Everything in life is limited
+	- You have limited willpower, use it on doing things that benefit you, your body or business
+		- Not on revenge, and shit
+	- You have limited energy, 
+	- you have limited brain power
+	- limited life time
+	- 
 
 
 - Add google analytics
@@ -78,3 +85,23 @@ Golden words:
 First of all thanks for admitting you commited a mistake. It takes lot ofguts to do so. 
 Next step, let's figure out how to mend this together. 
 
+- Intent of perfection : 
+	- Perfection is a process 
+	- It can't be achieved, but the intent is enough to go aha
+
+Marc Zuck : 
+Most of your life is not diong things that feel good first time only
+
+
+https://jakobgreenfeld.com/about/
+
+Fav quotes - randome generator
+
+
+Morning rituals and routines
+Don't watch your first youtube video till 5, it's downhill if you do
+
+Why am I a vegetarien
+Environment
+Life taking
+Personal, growing up

@@ -1,5 +1,5 @@
 ---
-title: 🪴 Aditya's Digital Garden
+title: 🪴 My Digital Garden
 disableToc: true # do not show a table of contents on this page if enabled
 ---
 
@@ -10,9 +10,12 @@ disableToc: true # do not show a table of contents on this page if enabled
 
 Hi, I am Aditya 👋 , and you are currently in my second brain. This is where I think out loud, capture raw ideas and make them public. 
 
-There is no featured posts list or a starting point. Just pick one section and keep going, from 👉 [here](notes)
+There is no featured posts list or a starting point. Just pick something and keep going, from 👉 [here](notes)
+
 
 I occasionally collate these thoughts into [talks, blogs and a newsletter](notes/talks-blogs-and-newsletter).
+
+PS : I intentionally try to avoid writing about tech here.
 
 # About Me
 
@@ -24,8 +27,8 @@ A quick recap of my life till now
   - 👨🏻‍💻 Interned at Amazon
   - 🧑🏻‍🔬 Wrote bachelor thesis at [CVC Barcelona](http://www.cvc.uab.es/)
 - 🧑🏻‍💼 Software Developer at Microsoft 
-- 🧑🏻‍🏫 Helped 300+ engineers land jobs @ [Edmad](https://edmad.io/)
--  ⚡️ 🚗 Currently building future of electric mobility and clean energy @ [Telematica](https://telematica.so)
+- 🧑🏻‍🏫 Helped 300+ engineers land top software jobs @ [Edmad](https://edmad.io/)
+-  ⚡️ 🚗 Currently building future of electric mobility and clean energy @ [Telematica (YC W22)](https://telematica.so)
 
 <!-- ### Care -->
 <!-- Things I care deeply about: -->
