@@ -32,7 +32,7 @@
         {
           "source": "/notes/uses",
           "target": "/",
-          "text": "check this out 👇🏻"
+          "text": "Check out for yourself 👇🏻"
         }
       ]
     },
@@ -41,7 +41,7 @@
         {
           "source": "/notes/uses",
           "target": "/",
-          "text": "check this out 👇🏻"
+          "text": "Check out for yourself 👇🏻"
         }
       ],
       "/notes": [
@@ -110,7 +110,7 @@
     {
       "source": "/notes/uses",
       "target": "/",
-      "text": "check this out 👇🏻"
+      "text": "Check out for yourself 👇🏻"
     }
   ]
 }
