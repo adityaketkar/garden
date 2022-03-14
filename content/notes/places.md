@@ -6,8 +6,8 @@ disableToc: true
 ## 🕐 Top cities by time spent
 1. Indore - 18 years
 2. Goa - 3.5 years
-3. Barcelona - 6 months
-4. Chennai - 6 months
+3. Chennai - 8 months
+4. Barcelona - 6 months
 6. Bangalore - 4+ months
 7. Shillong - 2.5 months
 
